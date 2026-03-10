@@ -15,5 +15,5 @@ The goal of the work in this repository was to provide a 'single source of truth
 
 ## 💼 Business Impact
 * **Budget:** Segmenting spend by country, marketing channel, user role and vertical.  
-* **Anaylze CPA:** Consolidating data from APIs and manual csv files with conversion data to calculate Cost Per Acquisition.
+* **Anaylse CPA:** Consolidating data from APIs and manual csv files with conversion data to calculate Cost Per Acquisition.
 * **Optimize:** Identifying underperforming channels where spend did not correlate with high-quality user acquisition.
